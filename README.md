@@ -1,0 +1,2 @@
+# workshop_qualitaetssicherung_lichtbogen
+weldx examples and code for the Workshop Qualitätssicherung Lichtbogenschweißen
